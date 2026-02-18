@@ -2,64 +2,95 @@
 <html lang="ar" dir="rtl">
 <head>
 <meta charset="UTF-8">
-<title>نجمات رمضان</title>
+<title>نجمات رمضان للانضباط</title>
+
 <style>
 body{
-font-family:Arial;
-background:linear-gradient(to bottom,#1e3c72,#2a5298);
-color:white;
+font-family: Arial;
+background: linear-gradient(to bottom,#fff8e1,#fdebd0);
+margin:20px;
+}
+
+h1,h2,h3{
 text-align:center;
-padding:20px;
+color:#8B0000;
 }
-.card{
+
+.section{
 background:white;
-color:black;
 padding:20px;
-border-radius:20px;
-margin:20px auto;
-width:80%;
+border-radius:15px;
+margin-bottom:20px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
 }
-.star-grid{
-display:grid;
-grid-template-columns:repeat(6,1fr);
-gap:10px;
-margin-top:20px;
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:10px;
 }
+
+th,td{
+border:1px solid #ccc;
+padding:8px;
+text-align:center;
+}
+
+th{
+background:#f4c430;
+}
+
+input{
+width:90%;
+padding:5px;
+}
+
+button{
+padding:8px 15px;
+margin:10px;
+background:#8B0000;
+color:white;
+border:none;
+border-radius:6px;
+cursor:pointer;
+}
+
 .star{
-background:gold;
-color:black;
-padding:15px;
-border-radius:50%;
+font-size:20px;
+cursor:pointer;
+}
+
+.footer{
+text-align:center;
 font-weight:bold;
+margin-top:20px;
 }
 </style>
 </head>
+
 <body>
 
-<h1>🌙 نجمات رمضان للانضباط 🌙</h1>
+<h1>🌙 برنامج نجمات رمضان للانضباط 🌙</h1>
 
-<div class="card">
-<p><strong>المدرسة:</strong> الابتدائية الثالثة والثمانون للطفولة المبكرة</p>
+<div class="section">
+<h2>الابتدائية الثالثة والثمانون للطفولة المبكرة</h2>
 <p><strong>الصف:</strong> الثاني الابتدائي</p>
-<p><strong>إعداد:</strong> أ. عائشة الثبيتي</p>
-
-<h3>لوحة 12 نجمة</h3>
-<div class="star-grid">
-<div class="star">1 ⭐</div>
-<div class="star">2 ⭐</div>
-<div class="star">3 ⭐</div>
-<div class="star">4 ⭐</div>
-<div class="star">5 ⭐</div>
-<div class="star">6 ⭐</div>
-<div class="star">7 ⭐</div>
-<div class="star">8 ⭐</div>
-<div class="star">9 ⭐</div>
-<div class="star">10 ⭐</div>
-<div class="star">11 ⭐</div>
-<div class="star">12 ⭐</div>
+<p><strong>عدد الطالبات:</strong> 28 طالبة</p>
+<p><strong>أستاذة المادة:</strong> أستاذة عائشة الثبيتي</p>
+<p><strong>إعداد وتصميم:</strong> عائشة</p>
+<p><strong>English Name:</strong> Aisha Tuna Althubaity (عائشة تونا الثبيتي)</p>
 </div>
 
+<div class="section">
+<h3>🎯 أهداف الخطة</h3>
+<ul>
+<li>تعزيز الانضباط الذاتي داخل الصف</li>
+<li>تشجيع السلوكيات الإيجابية</li>
+<li>غرس قيم رمضان: الهدوء والاحترام والتعاون</li>
+<li>تقليل الفوضى والتأخر والكلام أثناء الشرح</li>
+</ul>
 </div>
 
-</body>
-</html>
+<div class="section">
+<h3>⚙️ آلية التنفيذ</h3>
+<p>لوحة 12 نجمة لكل طا
